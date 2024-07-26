@@ -1,0 +1,17 @@
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+    text-align: center;
+}
+.portfolio-item {
+    margin-bottom: 30px;
+}
+.portfolio-item img {
+    max-width: 100%;
+    height: auto;
+}
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
